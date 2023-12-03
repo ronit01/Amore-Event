@@ -1,6 +1,6 @@
 # Amore Events
 
-**[Click here](**https://ronit01.github.io/Amore-Event/#) to visit out site!
+**[Click here](https://ronit01.github.io/Amore-Event/#) to visit out site!
 
 Amore Events is a passionate event management site dedicated to transforming your ideas into unforgettable experiences.
 
